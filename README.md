@@ -1,2 +1,2 @@
 # Mufasaa
-Optinal
+Optional
